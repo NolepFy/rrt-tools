@@ -1,0 +1,6 @@
+pipx install numpy
+pipx install scikit-learn
+pipx install pandas
+pipx install matplotlib
+pipx install pytz
+
